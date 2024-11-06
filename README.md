@@ -1,4 +1,4 @@
-Project Overview
+# Project Overview
 
 This project analyzes and predicts the quality of grape samples using various features, including environmental factors, physical characteristics, and chemical properties. The main objective is to classify grape samples into predefined quality categories (Low, Medium, High, Premium) and approximate a continuous quality score for each sample.
 
